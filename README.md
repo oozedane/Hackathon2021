@@ -7,7 +7,7 @@
     - Nom, Adresse, Numéro, CP, Localite, Categorie, Type, Telephone
 - HORECA de Charleroi
     - Nom, Adresse, Numéro, CP, Localite, Categorie HORECA, Type, Telephone
-- Association actives à Charleroi 
+- Associations actives à Charleroi 
     - Nom, Secteur d'activité, Adresse du siège social, CP, Localite, Email
  - Bottin social du CPAS -> comment récupérer les infos ?
     
