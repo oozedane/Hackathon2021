@@ -12,5 +12,16 @@
  - Bottin social du CPAS -> comment récupérer les infos ?
     
  - Liste des partenaires Carol'or (monnaie locale) -> comment récupérer les infos ?
+ 
+ 
+ ## Pitch
+ 
+- Quel est le nom du projet ?
+- Le projet répond à quelle problématique et en quoi votre solution est-elle pertinente par rapport à celle-ci ? (vous êtes autorisés à nous expliquer votre cheminement ou juste répondre à cette question )
+- Quel est le service/la solution proposé(e) ?
+- A qui s’adresse-t-il ? (précisez votre public cible)
+- Quel est le support ? (appli mobile, plateforme web, micro-service Wallonie en Poche, …)
+- Quelles données nous ont été nécessaires, comment nous les avons utilisées? (lesquelles, comment, pourquoi ?)
+- En quoi notre solution se différencie-t-elle d’autres solutions déjà existantes ?
 
  
