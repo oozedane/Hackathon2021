@@ -1,228 +1,228 @@
 NOM;ADRESSE;NUMERO;CODE POSTAL;LOCALITE;CATEGORIE HORECA;TYPE;TELEPHONE;TYPE_restaurant
-I Gemelli;Place Edmond Gilles;17;6042;Lodelinsart;Restaurant;;071/65 02 08;
-Mitica Pizzeria;Chaussée de Bruxelles;486;6042;Lodelinsart;Restaurant;;071/50 20 83;
-Ô Parfum d'Asie (ex. chez Zhang);Chaussée de Bruxelles;147;6042;Lodelinsart;Restaurant;;071/33 25 31;
-La Savoyarde;Place du Perron;26;6030;Marchienne-au-Pont;Restaurant;;071 51 18 91;
-Saka20;Rue de la Chapelle;66;6030;Marchienne-au-Pont;Restaurant;;0475 25 91 59;
-Il Truletto;Place Louis Delhaize;15;6043;Ransart;Restaurant;;071/35.44.18;
+I Gemelli;Place Edmond Gilles;17;6042;Lodelinsart;Restaurant;Autre;071/65 02 08;Autre
+Mitica Pizzeria;Chaussée de Bruxelles;486;6042;Lodelinsart;Restaurant;Autre;071/50 20 83;Autre
+Ô Parfum d'Asie (ex. chez Zhang);Chaussée de Bruxelles;147;6042;Lodelinsart;Restaurant;Autre;071/33 25 31;Autre
+La Savoyarde;Place du Perron;26;6030;Marchienne-au-Pont;Restaurant;Autre;071 51 18 91;Autre
+Saka20;Rue de la Chapelle;66;6030;Marchienne-au-Pont;Restaurant;Autre;0475 25 91 59;Autre
+Il Truletto;Place Louis Delhaize;15;6043;Ransart;Restaurant;Autre;071/35.44.18;Autre
 Hôtel South;Chaussée de Gilly;206;6043;Ransart;Hôtel;;071/25.65.65;
-LE RECOMMANDE;Rue Julien Schmidt;4;6020;Dampremy;Restaurant;;071 30 94 20;
-ZIO FRANCO;Rue Albert Camus;5;6031;Monceau-sur-Sambre;Restaurant;;071 30 22 88;
+LE RECOMMANDE;Rue Julien Schmidt;4;6020;Dampremy;Restaurant;Autre;071 30 94 20;Autre
+ZIO FRANCO;Rue Albert Camus;5;6031;Monceau-sur-Sambre;Restaurant;Autre;071 30 22 88;Autre
 PIZZA TIME;Rue de Mons;02-f�vr;6031;Monceau-sur-Sambre;Restaurant;Pizzeria;071 57 41 02;Pizzeria
 LE BAR A BROCHETTES;Rue des Combattants;20;6031;Monceau-sur-Sambre;Restaurant;Italien;0477 92 03 64;Italien
 GINO ET CLAUDIA;Rue des Combattants;8;6031;Monceau-sur-Sambre;Restaurant;Italien;071 50 01 77;Italien
-LA PERGOLA;Avenue Paul Pastur;79;6032;Mont-sur-Marchienne;Restaurant;;071 43 45 36;
+LA PERGOLA;Avenue Paul Pastur;79;6032;Mont-sur-Marchienne;Restaurant;Autre;071 43 45 36;Autre
 LE PALAIS IMPERIAL;Avenue Paul Pastur;412;6032;Mont-sur-Marchienne;Restaurant;Chinois;071 / 307 461;Chinois
 Antica Trattoria;Avenue du Chêne Saint Jean;4;6041;Gosselies;Restaurant;Italien;071/35 91 34;Italien
-Barabouf;Rue de Wayaux;1;6041;Gosselies;Restaurant;;071 35 44 93;
-Bell'Italia;Chaussée de Courcelles;173;6041;Gosselies;Restaurant;;071/37 13 65;
+Barabouf;Rue de Wayaux;1;6041;Gosselies;Restaurant;Autre;071 35 44 93;Autre
+Bell'Italia;Chaussée de Courcelles;173;6041;Gosselies;Restaurant;Autre;071/37 13 65;Autre
 Délices d'Asie;Rue de Namur;1;6041;Gosselies;Restaurant;Asiatique;071/351878;Asiatique
-La Cantine;Chemin du Long Préat;2;6041;Gosselies;Restaurant;;071 34 19 32;
-La Churrascaria (Los Tacos);Rue Pont-à-Migneloux;58;6041;Gosselies;Restaurant;;071 85 20 22;
-Le Croq'Midi;Rue du Calvaire;22;6041;Gosselies;Restaurant;;071 35 04 58;
-L'Esprit Bouddha;Place des Martyrs;30;6041;Gosselies;Restaurant;;071/37 22 05;
+La Cantine;Chemin du Long Préat;2;6041;Gosselies;Restaurant;Autre;071 34 19 32;Autre
+La Churrascaria (Los Tacos);Rue Pont-à-Migneloux;58;6041;Gosselies;Restaurant;Autre;071 85 20 22;Autre
+Le Croq'Midi;Rue du Calvaire;22;6041;Gosselies;Restaurant;Autre;071 35 04 58;Autre
+L'Esprit Bouddha;Place des Martyrs;30;6041;Gosselies;Restaurant;Autre;071/37 22 05;Autre
 Pizza Hut;Rue Tahon;10;6041;Gosselies;Restaurant;Pizzeria;071/373767;Pizzeria
-BENVENUTI AL SUD;ROUTE DE PHILIPPEVILLE;39;6010;Couillet;Restaurant;;0479/238297;
-LUNCH GARDEN;ROUTE DE PHILIPPEVILLE;303;6010;Couillet;Restaurant;;071/518407;
-Sotto Il Ponte;Route de Philippeville;342;6010;Couillet;Restaurant;;071/473757;
+BENVENUTI AL SUD;ROUTE DE PHILIPPEVILLE;39;6010;Couillet;Restaurant;Autre;0479/238297;Autre
+LUNCH GARDEN;ROUTE DE PHILIPPEVILLE;303;6010;Couillet;Restaurant;Autre;071/518407;Autre
+Sotto Il Ponte;Route de Philippeville;342;6010;Couillet;Restaurant;Autre;071/473757;Autre
 Athenes Plaza;Avenue de Philippeville;121;6001;Marcinelle;Restaurant;Grec;071/366124;Grec
 Le Goût du Liban;Avenue de Philippeville;145;6001;Marcinelle;Restaurant;Libanais;0492/ 50 45 05;Libanais
-Le Postillon;Avenue Mascaux;41;6001;Marcinelle;Restaurant;;071/474766;
+Le Postillon;Avenue Mascaux;41;6001;Marcinelle;Restaurant;Autre;071/474766;Autre
 Wang Sheng;Avenue Mascaux;95;6001;Marcinelle;Restaurant;Chinois;0479/982219;Chinois
-La Rose des Sables;Avenue Mascaux;162;6001;Marcinelle;Restaurant;;071/ 36 90 05;
-Le Romantic;Avenue Meurée;2;6001;Marcinelle;Restaurant;;071/ 43 85 25;
-Mine de Rien;Rue du Cazier;11;6001;Marcinelle;Restaurant;;0486/712921;
-PIZZERIA SOLENTO;Avenue du Centenaire;58 B;6061;Montignies-sur-Sambre;Restaurant;;071/30.18.74;
+La Rose des Sables;Avenue Mascaux;162;6001;Marcinelle;Restaurant;Autre;071/ 36 90 05;Autre
+Le Romantic;Avenue Meurée;2;6001;Marcinelle;Restaurant;Autre;071/ 43 85 25;Autre
+Mine de Rien;Rue du Cazier;11;6001;Marcinelle;Restaurant;Autre;0486/712921;Autre
+PIZZERIA SOLENTO;Avenue du Centenaire;58 B;6061;Montignies-sur-Sambre;Restaurant;Autre;071/30.18.74;Autre
 LINDOS CHEZ STASI;Chaussée de Chatelineau;204;6061;Montignies-sur-Sambre;Restaurant;Grec;071/328903;Grec
-Les Filles de l'Atelier Gourmand;Rue Brigade Piron;339;6061;Montignies-sur-Sambre;Restaurant;;071/122979;
+Les Filles de l'Atelier Gourmand;Rue Brigade Piron;339;6061;Montignies-sur-Sambre;Restaurant;Autre;071/122979;Autre
 Le Palais du Dragon;Chaussée de Bruxelles;417 A;6040;Jumet;Restaurant;Chinois;071/37 19 58;Chinois
-Le Miam;Rue Bayemont;32;6040;Jumet;Restaurant;;071/350307;
-Lunch garden;Rue Hubert Bastin;7;6040;Jumet;Restaurant;;071/ 35 01 90;
-L'Impérial;Place du Manège;20;6000;Charleroi;Restaurant;;071/31.37.48;
-Saveurs Ebènes;Rue de France;23;6000;Charleroi;Restaurant;;;
-Le Carthage;Avenue De L'Europe;4;6000;Charleroi;Restaurant;;071/32.46.11;
+Le Miam;Rue Bayemont;32;6040;Jumet;Restaurant;Autre;071/350307;Autre
+Lunch garden;Rue Hubert Bastin;7;6040;Jumet;Restaurant;Autre;071/ 35 01 90;Autre
+L'Impérial;Place du Manège;20;6000;Charleroi;Restaurant;Autre;071/31.37.48;Autre
+Saveurs Ebènes;Rue de France;23;6000;Charleroi;Restaurant;Autre;;Autre
+Le Carthage;Avenue De L'Europe;4;6000;Charleroi;Restaurant;Autre;071/32.46.11;Autre
 Manola's;Rue Du Pont Neuf;39;6000;Charleroi;Restaurant;Grec;071/95.60.00;Grec
 Dolce Pizza;Rue Du Pont Neuf;64;6000;Charleroi;Restaurant;Pizzeria;071/50.05.55;Pizzeria
 La Bella Pizza;Rue Willy Ernst;43;6000;Charleroi;Restaurant;Pizzeria;071/58.78.37;Pizzeria
 Cumu'Fa;Rue Charles Dupret;9;6000;Charleroi;Restaurant;Pizzeria;;Pizzeria
-Blablah Wine;Rue De Marcinelle;6;6000;Charleroi;Restaurant;;;
-Meat Ball's Bar;Rue De Marcinelle;8;6000;Charleroi;Restaurant;;;
+Blablah Wine;Rue De Marcinelle;6;6000;Charleroi;Restaurant;Autre;;Autre
+Meat Ball's Bar;Rue De Marcinelle;8;6000;Charleroi;Restaurant;Autre;;Autre
 Restaurant Creta;Boulevard Tirou;22;6000;Charleroi;Restaurant;Grec;071/33.10.33;Grec
 Thaï Café;Boulevard Tirou;79;6000;Charleroi;Restaurant;Asiatique;;Asiatique
-Kuçuk Ev;Place De La Digue;32-33;6000;Charleroi;Restaurant;;071/9550.85;
-Restaurant La Digue;Rue Du Grand Central;37;6000;Charleroi;Restaurant;;071/32.50.97;
-Le Léoni's;Rue De Dampremy;22;6000;Charleroi;Restaurant;;071/32.95.32;
-L'Entre-Côtes;Chaussée de Châtelet;423;6042;Lodelinsart;Restaurant;;0478/62 74 40;
-Pizza Pazza;Rue de Beaumont;208;6030;Marchienne-au-Pont;Restaurant;;071 47 01 03;
-Les Délices de Sicile;Rue de Beaumont;42;6030;Marchienne-au-Pont;Restaurant;;071 36 85 73;
+Kuçuk Ev;Place De La Digue;32-33;6000;Charleroi;Restaurant;Autre;071/9550.85;Autre
+Restaurant La Digue;Rue Du Grand Central;37;6000;Charleroi;Restaurant;Autre;071/32.50.97;Autre
+Le Léoni's;Rue De Dampremy;22;6000;Charleroi;Restaurant;Autre;071/32.95.32;Autre
+L'Entre-Côtes;Chaussée de Châtelet;423;6042;Lodelinsart;Restaurant;Autre;0478/62 74 40;Autre
+Pizza Pazza;Rue de Beaumont;208;6030;Marchienne-au-Pont;Restaurant;Autre;071 47 01 03;Autre
+Les Délices de Sicile;Rue de Beaumont;42;6030;Marchienne-au-Pont;Restaurant;Autre;071 36 85 73;Autre
 Pizza Nonno Antonio;Chaussée de Gilly;28/B;6043;Ransart;Restaurant;Pizzeria;071 12 88 25;Pizzeria
 L'Orchidée;Rue des Raspes;25;6043;Ransart;Restaurant;Français;071 37 00 96;Français
 Da Mimmo e Giovanna;Rue René Delhaize;91;6043;Ransart;Restaurant;Italien;071 19 15 65;Italien
-HIPPOCRATE;Rue de Mons;43;6020;Dampremy;Restaurant;;071 31 08 39;
-BLEU DU SUD;Rue De Landelies;50;6031;Monceau-sur-Sambre;Restaurant;;071 50 42 31;
+HIPPOCRATE;Rue de Mons;43;6020;Dampremy;Restaurant;Autre;071 31 08 39;Autre
+BLEU DU SUD;Rue De Landelies;50;6031;Monceau-sur-Sambre;Restaurant;Autre;071 50 42 31;Autre
 TRATTORIA LEANDRO;Rue Jules Destrée;34;6031;Monceau-sur-Sambre;Restaurant;Italien;0473 33 29 12;Italien
 LE KAMIROS;Rue de l'Industrie;84;6032;Mont-sur-Marchienne;Restaurant;Grec;071 47 20 71;Grec
-Emocion;Avenue Chêne St Jean;13;6041;Gosselies;Restaurant;;071 34 31 60;
+Emocion;Avenue Chêne St Jean;13;6041;Gosselies;Restaurant;Autre;071 34 31 60;Autre
 Hoa Binh;Rue Modeste Cornil;23;6041;Gosselies;Restaurant;Vietnamien;(+32) 71 34 49 04;Vietnamien
-Les 1001 Nuits;Faubourg de Bruxelles;260;6041;Gosselies;Restaurant;;071 37 02 48;
+Les 1001 Nuits;Faubourg de Bruxelles;260;6041;Gosselies;Restaurant;Autre;071 37 02 48;Autre
 Mac Do;Rue Tahon;16;6041;Gosselies;Restaurant;Fast-food;071/355376;Fast-food
 Pizza;Rue Modeste Cornil;48;6041;Gosselies;Restaurant;Pizzeria;;Pizzeria
 Van der Valk Charleroi Airport;Chaussée de Courcelles;115;6041;Gosselies;Hôtel;;071/25 00 50;
 Pizza Da Franco;ROUTE DE CHATELET;242;6010;Couillet;Restaurant;Pizzeria;;Pizzeria
-Le Prince d'Arabie;Route de Philippeville;64;6010;Couillet;Restaurant;;071/473894;
-Cooking by Selatin;Avenue Marius Meurée;57;6001;Marcinelle;Restaurant;;0486/488731;
+Le Prince d'Arabie;Route de Philippeville;64;6010;Couillet;Restaurant;Autre;071/473894;Autre
+Cooking by Selatin;Avenue Marius Meurée;57;6001;Marcinelle;Restaurant;Autre;0486/488731;Autre
 Alessio;Avenue Mascaux;117;6001;Marcinelle;Restaurant;Pizzeria;à louer (071/465426);Pizzeria
-La Cantina;Avenue Mascaux;192;6001;Marcinelle;Restaurant;;0497/03 99 71;
+La Cantina;Avenue Mascaux;192;6001;Marcinelle;Restaurant;Autre;0497/03 99 71;Autre
 Barrio pizza;Avenue Mascaux;452;6001;Marcinelle;Restaurant;Pizzeria;0486/88 28 30;Pizzeria
-La Cuisine de Franco;Avenue Paul Pastur;137;6001;Marcinelle;Restaurant;;071/47 29 19;
-Il Festino;Avenue Paul Pastur;108;6001;Marcinelle;Restaurant;;071/47 44 74;
-Le Beau Site;Rue de Nalinnes;545;6001;Marcinelle;Restaurant;;071/430031;
+La Cuisine de Franco;Avenue Paul Pastur;137;6001;Marcinelle;Restaurant;Autre;071/47 29 19;Autre
+Il Festino;Avenue Paul Pastur;108;6001;Marcinelle;Restaurant;Autre;071/47 44 74;Autre
+Le Beau Site;Rue de Nalinnes;545;6001;Marcinelle;Restaurant;Autre;071/430031;Autre
 DELI WOK;Avenue du Centenaire;243;6061;Montignies-sur-Sambre;Restaurant;Asiatique;071/95.45.68;Asiatique
 Arda Grill-Pizza;Rue Brigade Piron;314;6061;Montignies-sur-Sambre;Restaurant;Pizzeria;071/46.59.74;Pizzeria
 Hôtel de la Basse-Sambre;Rue de la Persévérance;19;6061;Montignies-sur-Sambre;Hôtel;;071/420168;
 L'Athènes;Chaussée de Bruxelles;193;6040;Jumet;Restaurant;Grec;071/34 10 18;Grec
 Quattro Stagioni;Rue des Hamendes;208;6040;Jumet;Restaurant;Italien;071/37 48 60;Italien
-On 600 Bien;Rue du Carrosse;15;6040;Jumet;Restaurant;;071/37 46 69;
-Pizza Hut Express;Avenue Jules Hénin;1;6000;Charleroi;Restaurant;;0485/53.23.23;
-Chez Vedat;Boulevard Jacques Bertrand;64;6000;Charleroi;Restaurant;;0484/70.57.35;
-La Grande Rotisserie;Rue Chavannes;1;6000;Charleroi;Restaurant;;;
-Nonna Rita;Rue de France;29;6000;Charleroi;Restaurant;;071/30.65.22;
+On 600 Bien;Rue du Carrosse;15;6040;Jumet;Restaurant;Autre;071/37 46 69;Autre
+Pizza Hut Express;Avenue Jules Hénin;1;6000;Charleroi;Restaurant;Autre;0485/53.23.23;Autre
+Chez Vedat;Boulevard Jacques Bertrand;64;6000;Charleroi;Restaurant;Autre;0484/70.57.35;Autre
+La Grande Rotisserie;Rue Chavannes;1;6000;Charleroi;Restaurant;Autre;;Autre
+Nonna Rita;Rue de France;29;6000;Charleroi;Restaurant;Autre;071/30.65.22;Autre
 Los Tacos;Rue des Trois Rois;9;6000;Charleroi;Restaurant;Mexicain;071/33.27.80;Mexicain
 Le Chateaubriand;Rue De Montigny;16;6000;Charleroi;Restaurant;Français;071/32.25.29;Français
-Da Noì;Rue Du Parc;53;6000;Charleroi;Restaurant;;0483/59.99.91;
-Cup Pasta;Place Emile Buisset;2;6000;Charleroi;Restaurant;;04847/58.77.61;
-La Bon'Heure;Rue Arthur Regniers;07-sept;6000;Charleroi;Restaurant;;0486/26.07.54;
-Restaurant Asia;Rue De Marchienne;21;6000;Charleroi;Restaurant;;071/31.64.18;
-Sushi House;Rue De Dampremy;18;6000;Charleroi;Restaurant;;071/32.56.44;
-Villa Dantimi;Rue du Chemin Vert;127;6042;Lodelinsart;Restaurant;;071/65 17 99;
-Chez Sereno;Rue Tourneur;116;6030;Marchienne-au-Pont;Restaurant;;071 51 74 89;
-Spiros;Rue de Beaumont;200;6030;Marchienne-au-Pont;Restaurant;;071 51 06 25;
+Da Noì;Rue Du Parc;53;6000;Charleroi;Restaurant;Autre;0483/59.99.91;Autre
+Cup Pasta;Place Emile Buisset;2;6000;Charleroi;Restaurant;Autre;04847/58.77.61;Autre
+La Bon'Heure;Rue Arthur Regniers;07-sept;6000;Charleroi;Restaurant;Autre;0486/26.07.54;Autre
+Restaurant Asia;Rue De Marchienne;21;6000;Charleroi;Restaurant;Autre;071/31.64.18;Autre
+Sushi House;Rue De Dampremy;18;6000;Charleroi;Restaurant;Autre;071/32.56.44;Autre
+Villa Dantimi;Rue du Chemin Vert;127;6042;Lodelinsart;Restaurant;Autre;071/65 17 99;Autre
+Chez Sereno;Rue Tourneur;116;6030;Marchienne-au-Pont;Restaurant;Autre;071 51 74 89;Autre
+Spiros;Rue de Beaumont;200;6030;Marchienne-au-Pont;Restaurant;Autre;071 51 06 25;Autre
 CHEZ VITO;Rue de Marchienne;7;6044;Roux;Restaurant;Italien;071 46 32 92;Italien
 TOMATES ET MOZZARELLA;Rue Emmanuel Jacquet;73;6044;Roux;Restaurant;Pizzeria;071 37 52 42;Pizzeria
-LE NEW DERBY;Avenue Jules Destrée;2;6031;Monceau-sur-Sambre;Restaurant;;071.32.31.81;
+LE NEW DERBY;Avenue Jules Destrée;2;6031;Monceau-sur-Sambre;Restaurant;Autre;071.32.31.81;Autre
 Le Bambino;Rue des Combattants;51;6031;Monceau-sur-Sambre;Restaurant;Italien;071 31 87 10;Italien
-LA MAIN A LA PATE;Avenue Paul Pastur;365;6032;Mont-sur-Marchienne;Restaurant;;071 47 48 91;
+LA MAIN A LA PATE;Avenue Paul Pastur;365;6032;Mont-sur-Marchienne;Restaurant;Autre;071 47 48 91;Autre
 SAPORI D ITALIA;Rue du Centenaire;61;6032;Mont-sur-Marchienne;Restaurant;Italien;;Italien
 La Tarantella;Rue du Spinois;28C;6041;Gosselies;Restaurant;Pizzeria;0478 08 61 00;Pizzeria
 Quick;rue de la Pépinière;14;6041;Gosselies;Restaurant;Fast-food;071 34 43 74;Fast-food
-La Cantina del Sud;Place Basile Parent;4;6010;Couillet;Restaurant;;071/950951;
-ARRIVO PIZZA;ROUTE DE PHILIPPEVILLE;169;6010;Couillet;Restaurant;;071/303040;
-L'Entre Potes;Route de Philippeville;359;6010;Couillet;Restaurant;;071 47 10 48;
-La Capricciosa Abruzzese;Rue de Villers;347;6010;Couillet;Restaurant;;071/479994;
-Chez Giuseppe et Louna;Chaussée de Ransart;316A;6060;Gilly;Restaurant;;071 17 89 64;
+La Cantina del Sud;Place Basile Parent;4;6010;Couillet;Restaurant;Autre;071/950951;Autre
+ARRIVO PIZZA;ROUTE DE PHILIPPEVILLE;169;6010;Couillet;Restaurant;Autre;071/303040;Autre
+L'Entre Potes;Route de Philippeville;359;6010;Couillet;Restaurant;Autre;071 47 10 48;Autre
+La Capricciosa Abruzzese;Rue de Villers;347;6010;Couillet;Restaurant;Autre;071/479994;Autre
+Chez Giuseppe et Louna;Chaussée de Ransart;316A;6060;Gilly;Restaurant;Autre;071 17 89 64;Autre
 Le Wok Palais Wang;Chaussée de Lodelinsart;7;6060;Gilly;Restaurant;Chinois;071 41 20 95;Chinois
-Saveurs du Monde;Avenue de Philippeville;161;6001;Marcinelle;Restaurant;;071/510768;
-Cousins Cuisine;Avenue Mascaux;19;6001;Marcinelle;Restaurant;;071 47 19 12;
+Saveurs du Monde;Avenue de Philippeville;161;6001;Marcinelle;Restaurant;Autre;071/510768;Autre
+Cousins Cuisine;Avenue Mascaux;19;6001;Marcinelle;Restaurant;Autre;071 47 19 12;Autre
 L'Adriatica;Avenue Mascaux;299;6001;Marcinelle;Restaurant;Pizzeria;071/ 47 41 11;Pizzeria
-L'Essingan;Avenue Meurée;63;6001;Marcinelle;Restaurant;;0493/450046;
-Au verre y table;Chaussée de Charleroi;27;6061;Montignies-sur-Sambre;Restaurant;;(+32) 71 17 29 69;
-ANTICA SARDEGNA;Chaussée de Chatelineau;263;6061;Montignies-sur-Sambre;Restaurant;;071/302698;
+L'Essingan;Avenue Meurée;63;6001;Marcinelle;Restaurant;Autre;0493/450046;Autre
+Au verre y table;Chaussée de Charleroi;27;6061;Montignies-sur-Sambre;Restaurant;Autre;(+32) 71 17 29 69;Autre
+ANTICA SARDEGNA;Chaussée de Chatelineau;263;6061;Montignies-sur-Sambre;Restaurant;Autre;071/302698;Autre
 L'Abruzzese;Chaussée de Gilly;166;6040;Jumet;Restaurant;Italien;071/35 64 16;Italien
-Steack House & Bar's;Place du Ballon;13;6040;Jumet;Restaurant;;0800/37007;
+Steack House & Bar's;Place du Ballon;13;6040;Jumet;Restaurant;Autre;0800/37007;Autre
 Pizzeria da Tore;Place du Ballon;29 A;6040;Jumet;Restaurant;Pizzeria;;Pizzeria
-Chez Angelo;Rue Jules Panier;1/A;6040;Jumet;Restaurant;;;
+Chez Angelo;Rue Jules Panier;1/A;6040;Jumet;Restaurant;Autre;;Autre
 Alta Pizza;Rue Puissant;27;6040;Jumet;Restaurant;Pizzeria;071/34 03 43;Pizzeria
-Kings BBQ;Avenue de Waterloo;74;6000;Charleroi;Restaurant;;0496/85.19.15 - 0468/53.79.31;
+Kings BBQ;Avenue de Waterloo;74;6000;Charleroi;Restaurant;Autre;0496/85.19.15 - 0468/53.79.31;Autre
 Lahori Taste;Rue de la Régence;69;6000;Charleroi;Restaurant;Indien;;Indien
-La Bouche Des Gouts;Rue Vauban;14;6000;Charleroi;Restaurant;;071/70.17.47;
+La Bouche Des Gouts;Rue Vauban;14;6000;Charleroi;Restaurant;Autre;071/70.17.47;Autre
 Le Caryatis;Avenue De L'Europe;15;6000;Charleroi;Restaurant;Grec;071/31.39.54;Grec
-Chez Lolotte;Avenue Général Michel;13;6000;Charleroi;Restaurant;;071/65.18.23;
+Chez Lolotte;Avenue Général Michel;13;6000;Charleroi;Restaurant;Autre;071/65.18.23;Autre
 L'Oasis;Rue Charles Dupret;10;6000;Charleroi;Restaurant;Couscous;071/31.87.97;Couscous
 Papilles Et Pupilles;Rue Charles Dupret;15;6000;Charleroi;Restaurant;Français;0488/99.85.95;Français
 Osteria Romana;Boulevard Tirou;74;6000;Charleroi;Restaurant;Italien;071/30.02.50;Italien
 Athena;Boulevard Tirou;144;6000;Charleroi;Restaurant;Grec;071/31.47.99;Grec
 Brasserie de la Cour;Rue Tumelaire;43;6000;Charleroi;Restaurant;Français;0471/23.63.26;Français
-La Table;Place Emile Buisset;10;6000;Charleroi;Restaurant;;071/70.20.18;
+La Table;Place Emile Buisset;10;6000;Charleroi;Restaurant;Autre;071/70.20.18;Autre
 Hôtel Ibis;Quai Paul Verlaine;9;6000;Charleroi;Hôtel;;071/20.60.60;
 Appart-Hötel Rozafa;Rue Arthur Regniers;3;6000;Charleroi;Hôtel;;0484/42.16.58;
-La Palmeraie;Place De La Digue;26;6000;Charleroi;Restaurant;;071/30.44.54;
-Le Marseillais Carolo;Place De La Digue;39;6000;Charleroi;Restaurant;;0498/77 50 71;
-Le Bistro;Rue De Dampremy;8;6000;Charleroi;Restaurant;;071/32.13.43;
-Restaurant Shangaï;Rue De Dampremy;9;6000;Charleroi;Restaurant;;071/31.37.04;
-Food et crepes;Rue De Dampremy;32;6000;Charleroi;Restaurant;;;
-Veni Vidi Vegan;Rue De Dampremy;78;6000;Charleroi;Restaurant;;071/33.00.38;
-Maki Time;Rue Du Pont De Sambre;6;6000;Charleroi;Restaurant;;071/13.90.29;
-Chinatown;Chaussée de Bruxelles;415;6042;Lodelinsart;Restaurant;;071/63 44 02;
-Portus;Chaussée de Bruxelles;139;6042;Lodelinsart;Restaurant;;071/32 26 27;
+La Palmeraie;Place De La Digue;26;6000;Charleroi;Restaurant;Autre;071/30.44.54;Autre
+Le Marseillais Carolo;Place De La Digue;39;6000;Charleroi;Restaurant;Autre;0498/77 50 71;Autre
+Le Bistro;Rue De Dampremy;8;6000;Charleroi;Restaurant;Autre;071/32.13.43;Autre
+Restaurant Shangaï;Rue De Dampremy;9;6000;Charleroi;Restaurant;Autre;071/31.37.04;Autre
+Food et crepes;Rue De Dampremy;32;6000;Charleroi;Restaurant;Autre;;Autre
+Veni Vidi Vegan;Rue De Dampremy;78;6000;Charleroi;Restaurant;Autre;071/33.00.38;Autre
+Maki Time;Rue Du Pont De Sambre;6;6000;Charleroi;Restaurant;Autre;071/13.90.29;Autre
+Chinatown;Chaussée de Bruxelles;415;6042;Lodelinsart;Restaurant;Autre;071/63 44 02;Autre
+Portus;Chaussée de Bruxelles;139;6042;Lodelinsart;Restaurant;Autre;071/32 26 27;Autre
 L'AMBIANCE;Avenue Jules Destrée;6;6031;Monceau-sur-Sambre;Restaurant;Italien;;Italien
 LA CHINE ROYALE;Route de Trazegnies;206;6031;Monceau-sur-Sambre;Restaurant;Chinois;071 50 18 88;Chinois
-LUCA ET PAPA;Avenue Paul Pastur;384;6032;Mont-sur-Marchienne;Restaurant;;071 43 00 00;
+LUCA ET PAPA;Avenue Paul Pastur;384;6032;Mont-sur-Marchienne;Restaurant;Autre;071 43 00 00;Autre
 PIZZA MARCO;Avenue Paul Pastur;102;6032;Mont-sur-Marchienne;Restaurant;Pizzeria;071 36 34 29;Pizzeria
-Il Dolce Vito;Rue du Calvaire;3;6041;Gosselies;Restaurant;;071 16 86 81;
+Il Dolce Vito;Rue du Calvaire;3;6041;Gosselies;Restaurant;Autre;071 16 86 81;Autre
 Kokeshi;Avenue Chêne St Jean;32;6041;Gosselies;Restaurant;Japonnais;071 35 82 58;Japonnais
-La Table de Xavier;Rue Robesse;49;6041;Gosselies;Restaurant;;071/17 55 21;
-Lunch Garden;Rue Tahon;10;6041;Gosselies;Restaurant;;071/359923;
-Dallo Zio;RUE HUBLINBLU;65;6010;Couillet;Restaurant;;;
-L'Etoile d'Asie;Chaussée de Fleurus;3;6060;Gilly;Restaurant;;071 42 18 57;
+La Table de Xavier;Rue Robesse;49;6041;Gosselies;Restaurant;Autre;071/17 55 21;Autre
+Lunch Garden;Rue Tahon;10;6041;Gosselies;Restaurant;Autre;071/359923;Autre
+Dallo Zio;RUE HUBLINBLU;65;6010;Couillet;Restaurant;Autre;;Autre
+L'Etoile d'Asie;Chaussée de Fleurus;3;6060;Gilly;Restaurant;Autre;071 42 18 57;Autre
 Pizza Dino;Chaussée de Fleurus;5;6060;Gilly;Restaurant;Pizzeria;071 41 75 60;Pizzeria
 Sandro;Chaussée de Fleurus;117;6060;Gilly;Restaurant;Italien;071 41 42 51;Italien
 Taiyiyou;Avenue de Philippeville;242;6001;Marcinelle;Restaurant;Japonnais;071/511558;Japonnais
 King Box;Avenue de Philippeville;244;6001;Marcinelle;Restaurant;Vietnamien;071/515051;Vietnamien
-Munchy's Bar;Avenue de Philippeville;221;6001;Marcinelle;Restaurant;;0472/417599;
+Munchy's Bar;Avenue de Philippeville;221;6001;Marcinelle;Restaurant;Autre;0472/417599;Autre
 Il Pomodorino;Avenue de Philippeville;274;6001;Marcinelle;Restaurant;Pizzeria;071/173573;Pizzeria
 Le Dragon d'Or;Avenue de Philippeville;272;6001;Marcinelle;Restaurant;Chinois;071/439975;Chinois
-Le Kolosse de Rhodes;Avenue Meurée;29;6001;Marcinelle;Restaurant;;071/368703;
+Le Kolosse de Rhodes;Avenue Meurée;29;6001;Marcinelle;Restaurant;Autre;071/368703;Autre
 Délices d'Orient;Rue César de Paepe;122;6040;Jumet;Restaurant;Asiatique;;Asiatique
 Kantina Chez Papou;Chaussée de Bruxelles;372 B;6040;Jumet;Restaurant;Grec;0499/81 82 78;Grec
-La Grange du Prieuré;Place du Prieuré;13;6040;Jumet;Restaurant;;0492/82 04 04;
-Chez Duche;Avenue de Waterloo;5;6000;Charleroi;Restaurant;;071/31.16.42;
-Pizza master Lina;Avenue Jules Hénin;4;6000;Charleroi;Restaurant;;071/76.05.93;
+La Grange du Prieuré;Place du Prieuré;13;6040;Jumet;Restaurant;Autre;0492/82 04 04;Autre
+Chez Duche;Avenue de Waterloo;5;6000;Charleroi;Restaurant;Autre;071/31.16.42;Autre
+Pizza master Lina;Avenue Jules Hénin;4;6000;Charleroi;Restaurant;Autre;071/76.05.93;Autre
 Chez Minh;Boulevard Paul Janson;26;6000;Charleroi;Restaurant;Asiatique;071/32.46.33;Asiatique
-Restaurant Dodoni;Boulevard Jacques Bertrand;74;6000;Charleroi;Restaurant;;;
+Restaurant Dodoni;Boulevard Jacques Bertrand;74;6000;Charleroi;Restaurant;Autre;;Autre
 Best Western Leonardo Hôtel;Rue Louis Blériot;4;6041;Gosselies;Hôtel;;071/30.24.24;
 An-Nam;Rue Charles Dupret;14;6000;Charleroi;Restaurant;Asiatique;071/30.10.70;Asiatique
-Saveurs D'Asie;Rue De Marchienne;29;6000;Charleroi;Restaurant;;071/31.56.36;
-Tra Di Noi;Place De La Digue;1;6000;Charleroi;Restaurant;;071.68.99.09 - 0475/63 35 54;
-Le Cribbi;Place De La Digue;36;6000;Charleroi;Restaurant;;0472/23 69 32;
-Le Grand Ikaros;Rue Du Grand Central;24;6000;Charleroi;Restaurant;;;
-Emozione Latina;Rue De Dampremy;29;6000;Charleroi;Restaurant;;0473/62.00.80;
-La Luppia;Chaussée de Bruxelles;405;6042;Lodelinsart;Restaurant;;071/32 64 79;
+Saveurs D'Asie;Rue De Marchienne;29;6000;Charleroi;Restaurant;Autre;071/31.56.36;Autre
+Tra Di Noi;Place De La Digue;1;6000;Charleroi;Restaurant;Autre;071.68.99.09 - 0475/63 35 54;Autre
+Le Cribbi;Place De La Digue;36;6000;Charleroi;Restaurant;Autre;0472/23 69 32;Autre
+Le Grand Ikaros;Rue Du Grand Central;24;6000;Charleroi;Restaurant;Autre;;Autre
+Emozione Latina;Rue De Dampremy;29;6000;Charleroi;Restaurant;Autre;0473/62.00.80;Autre
+La Luppia;Chaussée de Bruxelles;405;6042;Lodelinsart;Restaurant;Autre;071/32 64 79;Autre
 VIALE MONTAPERTO;Rue de la Victoire;11;6044;Roux;Restaurant;Pizzeria;071/34.28.00;Pizzeria
-LE MONTECO;Rue des Combattants;22;6031;Monceau-sur-Sambre;Restaurant;;071 / 31 21 77;
+LE MONTECO;Rue des Combattants;22;6031;Monceau-sur-Sambre;Restaurant;Autre;071 / 31 21 77;Autre
 LE JARDIN DE CHINE;Avenue Paul Pastur;12;6032;Mont-sur-Marchienne;Restaurant;Chinois;071 36 65 36;Chinois
-Chez Arnaud;Place Albert 1er;14;6041;Gosselies;Restaurant;;071 35 62 84;
+Chez Arnaud;Place Albert 1er;14;6041;Gosselies;Restaurant;Autre;071 35 62 84;Autre
 Class'Eco;Rue du Rosaire;10;6041;Gosselies;Hôtel;;071/37 22 22;
-Il Canto Dei Grilli;Rue du Calvaire;5;6041;Gosselies;Restaurant;;071 37 05 37;
+Il Canto Dei Grilli;Rue du Calvaire;5;6041;Gosselies;Restaurant;Autre;071 37 05 37;Autre
 Il Trentaquattro;Rue Robesse;34;6041;Gosselies;Restaurant;Pizzeria;071/19 35 81;Pizzeria
 Pizzeria l'Adriatic;Avenue du Chêne Saint Jean;7;6041;Gosselies;Restaurant;Pizzeria;071/35 62 91;Pizzeria
-La Cité d'Athènes;ROUTE DE CHATELET;246;6010;Couillet;Restaurant;;071/47.58.58;
+La Cité d'Athènes;ROUTE DE CHATELET;246;6010;Couillet;Restaurant;Autre;071/47.58.58;Autre
 King Box;Route de Philippeville;154;6010;Couillet;Restaurant;Vietnamien;0479/294531;Vietnamien
 Do Eat;Route de Philippeville;256;6010;Couillet;Restaurant;Japonnais;071/256256;Japonnais
-CHEZ AURELIO;RUE DE GILLY;182;6010;Couillet;Restaurant;;;
-L ALLEGRIA;RUE DE GILLY;394A;6010;Couillet;Restaurant;;071/472370;
-AUX SAVEURS DE CHINE;RUE DE LA LIAISON;5;6010;Couillet;Restaurant;;071 43 88 07;
-Il Primitivo;Rue de Villers;131;6010;Couillet;Restaurant;;071/430709;
-La Gioconda;Rue Saint-Marceau 1;1;6010;Couillet;Restaurant;;071/369039;
+CHEZ AURELIO;RUE DE GILLY;182;6010;Couillet;Restaurant;Autre;;Autre
+L ALLEGRIA;RUE DE GILLY;394A;6010;Couillet;Restaurant;Autre;071/472370;Autre
+AUX SAVEURS DE CHINE;RUE DE LA LIAISON;5;6010;Couillet;Restaurant;Autre;071 43 88 07;Autre
+Il Primitivo;Rue de Villers;131;6010;Couillet;Restaurant;Autre;071/430709;Autre
+La Gioconda;Rue Saint-Marceau 1;1;6010;Couillet;Restaurant;Autre;071/369039;Autre
 Le Dounya;Chaussée de Fleurus;38;6060;Gilly;Restaurant;Algérien;071-422049;Algérien
 Le Marathon;Rue des Brasseurs;1;6060;Gilly;Restaurant;Grec;;Grec
-Pizza Napoli;Avenue de Philippeville;284 C;6001;Marcinelle;Restaurant;;071/437751;
+Pizza Napoli;Avenue de Philippeville;284 C;6001;Marcinelle;Restaurant;Autre;071/437751;Autre
 Le Rhodini;Avenue Mascaux;295;6001;Marcinelle;Restaurant;Grec;071/36 46 30;Grec
-Le Saint-Charles;Rue du Cazier;80;6001;Marcinelle;Restaurant;;071/880856;
-Le Jardin d'Italie;Chaussée de Charleroi;113;6061;Montignies-sur-Sambre;Restaurant;;071/70.17.35;
+Le Saint-Charles;Rue du Cazier;80;6001;Marcinelle;Restaurant;Autre;071/880856;Autre
+Le Jardin d'Italie;Chaussée de Charleroi;113;6061;Montignies-sur-Sambre;Restaurant;Autre;071/70.17.35;Autre
 Le Lesvos;Chaussée de Charleroi;139;6061;Montignies-sur-Sambre;Restaurant;Grec;071/19.13.07;Grec
 Les délices d'Asie;Place Albert 1er;41;6061;Montignies-sur-Sambre;Restaurant;Chinois;0489/52.54.43;Chinois
 Bella Napoli;Place Albert 1er;43;6061;Montignies-sur-Sambre;Restaurant;Italien;071/58.74.00;Italien
 Hong-Kong;Chaussée de Bruxelles;145;6040;Jumet;Restaurant;Chinois;071/34 37 77;Chinois
-Le Domino;Chaussée de Bruxelles;136 D;6040;Jumet;Restaurant;;071/37 37 40;
-L'Y;Rue  Louis Lambert;10:00 AM;6040;Jumet;Restaurant;;0478/29 84 30;
-Le Sel et le Poivre;Rue Auguste Delvaux;6;6040;Jumet;Restaurant;;071/35 97 06;
-L'Etna;Rue César de Paepe;40;6040;Jumet;Restaurant;;;
-La Savane;Avenue de Waterloo;65;6000;Charleroi;Restaurant;;0493/ 06.07.34;
+Le Domino;Chaussée de Bruxelles;136 D;6040;Jumet;Restaurant;Autre;071/37 37 40;Autre
+L'Y;Rue  Louis Lambert;10:00 AM;6040;Jumet;Restaurant;Autre;0478/29 84 30;Autre
+Le Sel et le Poivre;Rue Auguste Delvaux;6;6040;Jumet;Restaurant;Autre;071/35 97 06;Autre
+L'Etna;Rue César de Paepe;40;6040;Jumet;Restaurant;Autre;;Autre
+La Savane;Avenue de Waterloo;65;6000;Charleroi;Restaurant;Autre;0493/ 06.07.34;Autre
 Lo Scugnizzo;Grand Rue;10;6000;Charleroi;Restaurant;Pizzeria;071/41.16.08;Pizzeria
-Les 2 Fenêtres;Rue Basslé;27;6000;Charleroi;Restaurant;;071/63.43.03;
-Martine Ducat;Rue Neuve;76;6000;Charleroi;Restaurant;;071/32.13.92 - 0486/40.90.28;
-Michelangelo;Boulevard De L'Yser;11;6000;Charleroi;Restaurant;;071/30.32.32;
-Restaurant Chermannne;Avenue De L'Europe;62;6000;Charleroi;Restaurant;;071/30.36.80;
-Ribs House;Avenue De L'Europe;102;6000;Charleroi;Restaurant;;0484/83.88.13;
-El Mexicanito;Rue De La Croix-Rouge;7;6000;Charleroi;Restaurant;;;
+Les 2 Fenêtres;Rue Basslé;27;6000;Charleroi;Restaurant;Autre;071/63.43.03;Autre
+Martine Ducat;Rue Neuve;76;6000;Charleroi;Restaurant;Autre;071/32.13.92 - 0486/40.90.28;Autre
+Michelangelo;Boulevard De L'Yser;11;6000;Charleroi;Restaurant;Autre;071/30.32.32;Autre
+Restaurant Chermannne;Avenue De L'Europe;62;6000;Charleroi;Restaurant;Autre;071/30.36.80;Autre
+Ribs House;Avenue De L'Europe;102;6000;Charleroi;Restaurant;Autre;0484/83.88.13;Autre
+El Mexicanito;Rue De La Croix-Rouge;7;6000;Charleroi;Restaurant;Autre;;Autre
 Pot Au Phô;Rue De Montigny;34;6000;Charleroi;Restaurant;Vietnamien;071/32.20.03;Vietnamien
 Le Delphes;Rue Willy Ernst;3;6000;Charleroi;Restaurant;Grec;071/41.39.29;Grec
 Le Deauville;Boulevard Tirou;28-f�vr;6000;Charleroi;Restaurant;Français;071/31.40.21;Français
-L'Originel;Boulevard Tirou;73;6000;Charleroi;Restaurant;;071/53.54.23;
+L'Originel;Boulevard Tirou;73;6000;Charleroi;Restaurant;Autre;071/53.54.23;Autre
 Hôtel Novotel;Place Verte;17;6000;Charleroi;Hôtel;;;
-Au Provençal;Rue Puissant D'Agimont;10;6000;Charleroi;Restaurant;;071/31.28.37;
-Au Grand Bol;Place De La Digue;2;6000;Charleroi;Restaurant;;0471/68.60.39;
-Huggy's Bar;Place De La Digue;15-17;6000;Charleroi;Restaurant;;0473/84.77.20;
-L'Aptit;Rue Du Grand Central;51;6000;Charleroi;Restaurant;;071/53.53.83;
+Au Provençal;Rue Puissant D'Agimont;10;6000;Charleroi;Restaurant;Autre;071/31.28.37;Autre
+Au Grand Bol;Place De La Digue;2;6000;Charleroi;Restaurant;Autre;0471/68.60.39;Autre
+Huggy's Bar;Place De La Digue;15-17;6000;Charleroi;Restaurant;Autre;0473/84.77.20;Autre
+L'Aptit;Rue Du Grand Central;51;6000;Charleroi;Restaurant;Autre;071/53.53.83;Autre
 Pizz'Anna;Rue De Dampremy;15;6000;Charleroi;Restaurant;Pizzeria;071/32.51.79;Pizzeria
-Oggi Coffee;Rue De Dampremy;76;6000;Charleroi;Restaurant;;0493/36.13.34;
+Oggi Coffee;Rue De Dampremy;76;6000;Charleroi;Restaurant;Autre;0493/36.13.34;Autre
